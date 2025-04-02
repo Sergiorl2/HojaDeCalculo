@@ -1,5 +1,3 @@
-package v04;
-
 public class Celda {
     
     private String contenido;

@@ -1,5 +1,3 @@
-package v04;
-
 public class VisiCalc {
 
     private static final int FILAS = 30;
